@@ -11,7 +11,7 @@ API_ID = "24600892"
 API_HASH = "6db6c1342cb6f10ab6ec4ce27e50cfd2"
 
 # Get your token from @BotFather on Telegram.
-BOT_TOKEN = "7788838360:AAFbtcOHOiLJKvQYelMc3ZYGsFbpRpcti-o"
+BOT_TOKEN = "7788838360:AAFmOjFvgo9Cu7TEdZ2-FRu8JQr09K8F42E"
 # -------------------------------------------------------
 OWNER_USERNAME = getenv("OWNER_USERNAME","OwnerofTheDenki")
 # --------------------------------------------------------
